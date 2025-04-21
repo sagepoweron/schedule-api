@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule-api", "schedule-api.csproj", "{9DC58E01-D127-4277-8B59-CFEB06B555C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC58E01-D127-4277-8B59-CFEB06B555C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC58E01-D127-4277-8B59-CFEB06B555C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC58E01-D127-4277-8B59-CFEB06B555C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC58E01-D127-4277-8B59-CFEB06B555C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC589CC-B683-4500-8E69-AD9C9149E138}
+	EndGlobalSection
+EndGlobal
